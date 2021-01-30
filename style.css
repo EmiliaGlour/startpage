@@ -76,9 +76,6 @@ input {
 
 a {
   font-family: "circular-std", sans-serif;
-  border: 12px solid transparent;
-  border-radius: 11px;
-  background-color: #000000aa;
 }
 
 canvas {
