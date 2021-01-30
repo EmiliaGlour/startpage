@@ -6,7 +6,15 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<meta name="description" content="">
 		<meta name="author" content="">
-
+<head>
+<style>
+.left {
+  position: absolute;
+  left: 0px;
+  width: 700px;
+  padding-left: 28px;
+}
+</style>
 		<title>//</title>
     		<link rel="icon" href="favicon1.ico">
 
@@ -17,6 +25,7 @@
 
 	<body class="text-center">
 		<h1 id="clock"></h1>
+    <div class="left">
 		<div class="search">
 			<form action="https://duckduckgo.com/" method="get" target="_self" autocomplete="off">
 				<input type="text" name="q" placeholder="Search" autofocus>
@@ -36,6 +45,7 @@
 				<img src="img/5.png"> Amazon
 			</a>
 		</div>
+    </div>
 		<script src="flow-field/assets/p5.min.js"></script>
 		<script src="flow-field/assets/index.js"></script>
 		<script src="js/clock.js"></script>
