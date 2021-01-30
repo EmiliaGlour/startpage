@@ -37,14 +37,15 @@ h1.timing {
 input {
   border: 8px solid transparent;
   border-radius: 11px;
-  min-width: 450px;
-  max-width: 530px;
+  min-width: 350px;
+  max-width: 475px;
   width: 75%;
   padding-left: 5px;
   background-color: #000000aa;
-  color: #fff;
+  color: #1ed760;
   outline: 0;
   margin-bottom: 20px;
+  margin-right: 1390px;
 }
 
 .icons img {
@@ -54,8 +55,9 @@ input {
   top: -2px;
 }
 .icons a:not(:last-of-type) {
-  margin-right: 15px;
+  margin-right: 25px;
   padding: 0;
+  
 }
 
 ::placeholder {
@@ -76,6 +78,7 @@ input {
 
 a {
   font-family: "circular-std", sans-serif;
+  margin-right: 1380px;
 }
 
 canvas {
@@ -90,6 +93,7 @@ canvas {
   font-family: 'circular-black', sans-serif;
   color: #fff;
   font-size: 56px;
-  text-align: center;
-  margin-top: 450px;
+  text-align: left;
+  margin-top: 730px;
   margin-right: 350px;
+  padding-left: 32px;
