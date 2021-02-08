@@ -24,7 +24,7 @@ a:visited {
 }
 
 h1.hello {
-  margin-top: 320px;
+  margin-top: 20px;
   margin-right: 350px;
 }
 
@@ -96,6 +96,6 @@ canvas {
   color: #fff;
   font-size: 56px;
   text-align: left;
-  margin-top: 730px;
+  margin-top: 460px;
   margin-right: 350px;
   padding-left: 32px;
